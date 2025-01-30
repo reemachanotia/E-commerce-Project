@@ -3,6 +3,12 @@ E-commerce Sales Analysis
 
 ![image alt](https://github.com/reemachanotia/E-commerce-Project/blob/628f540a2e51a5250e26967255c74ab8724411fe/ecomerce2.png)
 
+
+
+
+
+
+
 Overview
 This project analyzes e-commerce sales data using Python, Pandas, and Plotly to uncover key insights. It helps understand customer behavior, product performance, and revenue trends.
 
